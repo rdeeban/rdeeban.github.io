@@ -1,0 +1,40 @@
+.background {
+    background-image: url(../img/img14.jpg);
+    background-position:center;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    min-width:100%;
+    min-height:100%;
+}
+
+.separator {
+    margin: 30px auto;
+}
+
+
+hr {
+    max-width: 50px;
+    border-color: #ffffff;
+    border-width: 2px;
+}
+
+.background-1{
+	background-image: url(../img/triangle.png);
+	min-width:100%;
+	min-height:100%;
+	background-attachment: fixed;
+}
+
+.background-2{
+    background-image: url(../img/img3.jpg);
+    background-position:center;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    min-width:100%;
+    min-height:100%;
+    min-height:500px;
+
+}
+
+.thumbnail-c{
+	max-width:150px;
+	max-height:150px;
+}
